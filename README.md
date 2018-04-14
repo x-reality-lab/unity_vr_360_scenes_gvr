@@ -2,7 +2,7 @@
 
 ### Unity VR Project with transitions between several 360 Scenes using Event Trigger (Pointer Click)
 
-![Runtime](https://media.giphy.com/media/32aPITsEtbL8Szi74Z/giphy.gif)
+![Runtime](https://media.giphy.com/media/pcKpaaonX5eWKoeDYI/giphy.gif)
 
 ### Unity Version:
 
